@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="google" content="notranslate">
+
+    <title>Foody (Angular)</title>
+
+    <link rel='stylesheet' href="http://fonts.googleapis.com/css?family=Roboto:400,300,500,700"/>
+    <link rel='stylesheet' href="/stylesheets/bootstrap{{isRtl ? '.rtl' : ''}}.min.css"/>
+    <link rel='stylesheet' href="/stylesheets/style{{isRtl ? '.rtl' : ''}}.css"/>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.5/angular.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.min.js"></script>
+    <!--<script src="https://cdn.translationexchange.com/tools/tml-angular/stable/tml-angular.js"></script>-->
+    <script src="javascripts/tml-angular.js"></script>
+    <script src="javascripts/app.js"></script>
+</head>
+
+<body data-spy='scroll' data-target='#nav-categories'>
+
+<noscript>
+    <div class="flash_error alert danger">
+        This site requires JavaScript! Please enable JavaScript in your browser's settings to use this part of the site.
+    </div>
+</noscript>
+
+<!-- Begin Navigation -->
+<div class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span> <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/"><strong>Foody</strong></a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <!-- Language selector goes here -->
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End Navigation -->
+
+<div ui-view>
+    
+</div>
+<!-- End Index -->
+
+
+<!-- Begin Footer -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <p>
+                    <span tml-tr app="'Foody'">{app} was built to demonstrate the Translation Exchange Localization Platform.</span>
+                    <span tml-tr link-href="'https://github.com/translationexchange'">The source code is available on our [link: Github Account]</span>
+                </p>
+            </div>
+            <div class="col-md-4 text-right">
+                Translation Exchange, Inc 
+                <span tml-ls='popup'></span>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer -->
+
+</body>
+
+</html>

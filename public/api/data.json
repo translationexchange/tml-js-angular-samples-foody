@@ -1,0 +1,1044 @@
+{
+  "categories":[
+    {
+      "id":"salad",
+      "name":"Salads"
+    },
+    {
+      "id":"fish",
+      "name":"Fish"
+    },
+    {
+      "id":"beef",
+      "name":"Beef"
+    },
+    {
+      "id":"chicken",
+      "name":"Chicken"
+    },
+    {
+      "id":"dessert",
+      "name":"Desserts"
+    }
+  ],
+  "recipes":[
+    {
+      "id":"coconut-cake",
+      "category":"dessert",
+      "name":"Coconut Cake",
+      "description":"Delicious cake frosted with white frosting and covered in coconut flakes",
+      "image":"/images/coconut-cake.jpg",
+      "preparation":"Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan.",
+      "directions":[
+        "In a large bowl, mix together cake mix, eggs, oil, water and coconut flavoring. Beat for 2 minutes and pour into 9x13 inch pan. Bake for 30 minutes, or until a toothpick inserted into the cake comes out clean.",
+        "In a medium bowl, combine coconut cream with sweetened condensed milk and stir until smooth. When cake comes out of the oven, poke holes into it in even rows using a large fork or chopsticks. Pour milk mixture over, allowing it to soak into the cake. Refrigerate for several hours or overnight.",
+        "In a large bowl, whisk cream until soft peaks form. Add sugar and continue whipping until stiff. Spread over cooled cake. Sprinkle top with flaked coconut."
+      ],
+      "ingredients":[
+        {
+          "quantity":"1",
+          "name":"white cake mix",
+          "measurements":"(18.25 ounce) package"
+        },
+        {
+          "quantity":"3",
+          "name":"eggs"
+        },
+        {
+          "quantity":"1/3",
+          "name":"vegetable oil",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"water",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/2",
+          "name":"coconut extract",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1",
+          "name":"coconut cream",
+          "measurements":"(14 ounce) can"
+        },
+        {
+          "quantity":"1",
+          "name":"sweetened condensed milk",
+          "measurements":"(14 ounce) can"
+        },
+        {
+          "quantity":"1",
+          "name":"heavy whipping cream",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"white sugar",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1",
+          "name":"flaked coconut",
+          "measurements":"cup"
+        }
+      ]
+    },
+    {
+      "id":"key-lime-pie",
+      "category":"dessert",
+      "name":"Key Lime Pie",
+      "description":"An American dessert made of Key lime juice, egg yolks, and sweetened condensed milk in a pie crust",
+      "image":"/images/key-lime-pie.jpg",
+      "preparation":"Preheat an oven to 350 degrees F (175 degrees C).",
+      "directions":[
+        "Pulse the almonds in a food processor until finely ground. Combine the almonds with the graham cracker crumbs, sugar, and salt. Pour in the melted butter and mix until evenly moistened. Press into a 9-inch pie plate.",
+        "Bake the crust in the preheated oven until golden brown, 10 to 13 minutes.",
+        "While the crust is baking, beat the egg yolks in a bowl with the condensed milk, cream, and lime zest. Whisk in the lime juice a little at a time to thicken the custard. Pour the custard into the pie crust and return to the oven.",
+        "Bake in the oven for 15 minutes to help the custard begin to set. Cool to room temperature on a wire rack before covering loosely with plastic wrap and refrigerating overnight."
+      ],
+      "ingredients":[
+        {
+          "quantity":"2/3",
+          "name":"toasted slivered almonds",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"graham cracker crumbs",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/4",
+          "name":"white sugar",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"salt",
+          "measurements":"pinch"
+        },
+        {
+          "quantity":"1/4",
+          "name":"butter, melted",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"4",
+          "name":"egg yolks"
+        },
+        {
+          "quantity":"1",
+          "name":"sweetened condensed milk",
+          "measurements":"(14 ounce) can"
+        },
+        {
+          "quantity":"1/2",
+          "name":"key lime juice",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"3/4",
+          "name":"cold heavy cream",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/2",
+          "name":"grated lime zest",
+          "measurements":"teaspoon"
+        }
+      ]
+    },
+    {
+      "id":"french-macaroons",
+      "category":"dessert",
+      "name":"French Macaroons",
+      "description":"Small circular cake, typically made from ground almonds",
+      "image":"/images/macaroons.jpg",
+      "preparation":"Line a baking sheet with a silicone baking mat.",
+      "directions":[
+        "Beat egg whites in the bowl of a stand mixer fitted with a whisk attachment until whites are foamy; beat in white sugar and continue beating until egg whites are glossy, fluffy, and hold soft peaks. Sift confectioners' sugar and ground almonds in a separate bowl and quickly fold the almond mixture into the egg whites, about 30 strokes.",
+        "Spoon a small amount of batter into a plastic bag with a small corner cut off and pipe a test disk of batter, about 1 1/2 inches in diameter, onto prepared baking sheet. If the disk of batter holds a peak instead of flattening immediately, gently fold the batter a few more times and retest.",
+        "When batter is mixed enough to flatten immediately into an even disk, spoon into a pastry bag fitted with a plain round tip. Pipe the batter onto the baking sheet in rounds, leaving space between the disks. Let the piped cookies stand out at room temperature until they form a hard skin on top, about 1 hour.",
+        "Preheat oven to 285 degrees F (140 degrees C).",
+        "Bake cookies until set but not browned, about 10 minutes; let cookies cool completely before filling."
+      ],
+      "ingredients":[
+        {
+          "quantity":"3",
+          "name":"egg whites"
+        },
+        {
+          "quantity":"1/4",
+          "name":"white sugar",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1 2/3",
+          "name":"confectioners' sugar",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"finely ground almonds",
+          "measurements":"cup"
+        }
+      ]
+    },
+    {
+      "id":"blackberry-cobbler",
+      "category":"dessert",
+      "name":"Blackberry Cobbler",
+      "description":"Blackberry filling poured into a large baking dish and covered with a batter",
+      "image":"/images/cobbler.jpg",
+      "preparation":"Preheat an oven to 350 degrees F (175 degrees C). Lightly oil a 9x13-inch baking dish. Whisk 1/2 cup sugar with the cornstarch in a small bowl; set aside.",
+      "directions":[
+        "Place the blackberries into a mixing bowl, and drizzle with 1/4 cup of melted butter. Sprinkle with the cornstarch mixture, and toss to evenly coat. Spread the berries into the prepared baking dish. In a separate bowl, whisk together the flour, 1 1/2 cup sugar, baking powder, and salt until evenly blended. Stir in the milk, vanilla extract, and 1/4 cup melted butter until combined but still slightly lumpy. Pour the batter over the berries.",
+        "Bake in the preheated oven until the berries are tender and the crust is golden brown, 55 minutes to an hour."
+      ],
+      "ingredients":[
+        {
+          "quantity":"1/2",
+          "name":"white sugar",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"2",
+          "name":"cornstarch",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"6",
+          "name":"fresh blackberries",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/4",
+          "name":"melted butter",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"2 1/2",
+          "name":"all-purpose flour",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1 1/2",
+          "name":"white sugar",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"baking powder",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1",
+          "name":"salt",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"2",
+          "name":"milk",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"vanilla extract",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1/4",
+          "name":"melted butter",
+          "measurements":"cup"
+        }
+      ]
+    },
+    {
+      "id":"pasta-chicken-salad",
+      "name":"Sesame Pasta Chicken Salad",
+      "category":"salad",
+      "description":"This is a great change of pace from normal pasta salads.",
+      "image":"/images/chicken-pasta-salad.jpg",
+      "preparation":"Heat a skillet over medium-high heat. Add sesame seeds, and cook stirring frequently until lightly toasted. Remove from heat, and set aside.",
+      "directions":[
+        "Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until al dente. Drain pasta, and rinse under cold water until cool. Transfer to a large bowl.",
+        "In a jar with a tight-fitting lid, combine vegetable oil, soy sauce, vinegar, sesame oil, sugar, sesame seeds, ginger, and pepper. Shake well.",
+        "Pour sesame dressing over pasta, and toss to coat evenly. Gently mix in chicken, cilantro, and green onions."
+      ],
+      "ingredients":[
+        {
+          "quantity":"1/4",
+          "name":"sesame seeds",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"bow tie pasta",
+          "measurements":"(16 ounce) package"
+        },
+        {
+          "quantity":"1/2",
+          "name":"vegetable oil",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/3",
+          "name":"light soy sauce",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/3",
+          "name":"rice vinegar",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"sesame oil",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"3",
+          "name":"white sugar",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1/2",
+          "name":"ground ginger",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1/4",
+          "name":"ground black pepper",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"3",
+          "name":"shredded, cooked chicken breast meat",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/3",
+          "name":"chopped fresh cilantro",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/3",
+          "name":"chopped green onion",
+          "measurements":"cup"
+        }
+      ]
+    },
+    {
+      "id":"garlic-parmesan-chicken",
+      "name":"Baked Garlic Parmesan Chicken",
+      "category":"chicken",
+      "description":"An Italian dish made with a shallow or deep-fried sliced aubergine filling, layered with cheese and tomato sauce.",
+      "image":"/images/parmesan-chicken.jpg",
+      "preparation":"Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.",
+      "directions":[
+        "In a bowl, blend the olive oil and garlic. In a separate bowl, mix the bread crumbs, Parmesan cheese, basil, and pepper. Dip each chicken breast in the oil mixture, then in the bread crumb mixture. Arrange the coated chicken breasts in the prepared baking dish, and top with any remaining bread crumb mixture.",
+        "Bake 30 minutes in the preheated oven, or until chicken is no longer pink and juices run clear."
+      ],
+      "ingredients":[
+        {
+          "quantity":"2",
+          "name":"olive oil",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1",
+          "name":"minced clove garlic"
+        },
+        {
+          "quantity":"1",
+          "name":"dry bread crumbs",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"2/3",
+          "name":"grated Parmesan cheese",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"dried basil leaves",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1/4",
+          "name":"ground black pepper",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"6",
+          "name":"boneless chicken breast halves"
+        }
+      ]
+    },
+    {
+      "id":"buffalo-chicken-wings",
+      "name":"Buffalo Chicken Wings",
+      "category":"chicken",
+      "description":"Deep-fried, breaded, and coated in vinegar-based cayenne pepper hot sauce and butter.",
+      "image":"/images/buffalo-wings.jpg",
+      "preparation":"In a small bowl mix together the flour, paprika, cayenne pepper and salt. Place chicken wings in a large nonporous glass dish or bowl and sprinkle flour mixture over them until they are evenly coated. Cover dish or bowl and refrigerate for 60 to 90 minutes.",
+      "directions":[
+        "Heat oil in a deep fryer to 375 degrees F (190 degrees C). The oil should be just enough to cover wings entirely, an inch or so deep. Combine the butter, hot sauce, pepper and garlic powder in a small saucepan over low heat. Stir together and heat until butter is melted and mixture is well blended. Remove from heat and reserve for serving.",
+        "Fry coated wings in hot oil for 10 to 15 minutes, or until parts of wings begin to turn brown. Remove from heat, place wings in serving bowl, add hot sauce mixture and stir together. Serve."
+      ],
+      "ingredients":[
+        {
+          "quantity":"1/2",
+          "name":"all-purpose flour",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/4",
+          "name":"paprika",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1/4",
+          "name":"cayenne pepper",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1/4",
+          "name":"salt",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"10",
+          "name":"chicken wings"
+        },
+        {
+          "quantity":"1/4",
+          "name":"butter",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/4",
+          "name":"hot sauce",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"ground black pepper",
+          "measurements":"dash"
+        },
+        {
+          "quantity":"1",
+          "name":"garlic powder",
+          "measurements":"dash"
+        }
+      ]
+    },
+
+
+
+    {
+      "id":"chicken-pot-pie",
+      "name":"Chicken Pot Pie",
+      "category":"chicken",
+      "description":"A type of meat pie with a top crust, generally made of flaky pastry.",
+      "image":"/images/chicken-pot-pie.jpg",
+      "preparation":"Preheat oven to 425 degrees F (220 degrees C.)",
+      "directions":[
+        "In a saucepan, combine chicken, carrots, peas, and celery. Add water to cover and boil for 15 minutes. Remove from heat, drain and set aside.",
+        "In the saucepan over medium heat, cook onions in butter until soft and translucent. Stir in flour, salt, pepper, and celery seed. Slowly stir in chicken broth and milk. Simmer over medium-low heat until thick. Remove from heat and set aside.",
+        "Place the chicken mixture in bottom pie crust. Pour hot liquid mixture over. Cover with top crust, seal edges, and cut away excess dough. Make several small slits in the top to allow steam to escape.",
+        "Bake in the preheated oven for 30 to 35 minutes, or until pastry is golden brown and filling is bubbly. Cool for 10 minutes before serving."
+      ],
+      "ingredients":[
+        {
+          "quantity":"1",
+          "name":"boneless chicken breast halves",
+          "measurements":"pound"
+        },
+        {
+          "quantity":"1",
+          "name":"sliced carrots",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"frozen green peas",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/2",
+          "name":"sliced celery",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/3",
+          "name":"butter",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/3",
+          "name":"chopped onion",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/3",
+          "name":"all-purpose flour",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/2",
+          "name":"salt",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1/4",
+          "name":"black pepper",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1/4",
+          "name":"celery seed",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1 3/4",
+          "name":"chicken broth",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"2/3",
+          "name":"milk",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"2",
+          "name":"(9 inch) unbaked pie crusts"
+        }
+      ]
+    },
+    {
+      "id":"pear-salad",
+      "name":"Pear Salad",
+      "category":"salad",
+      "description":"A light salad with refreshing pears and avacados.",
+      "image":"/images/pear-salad.jpg",
+      "preparation":"In a skillet over medium heat, stir 1/4 cup of sugar together with the pecans. Continue stirring gently until sugar has melted and caramelized the pecans. Carefully transfer nuts onto waxed paper. Allow to cool, and break into pieces.",
+      "directions":[
+        "For the dressing, blend oil, vinegar, 1 1/2 teaspoons sugar, mustard, chopped garlic, salt, and pepper.",
+        "In a large serving bowl, layer lettuce, pears, blue cheese, avocado, and green onions. Pour dressing over salad, sprinkle with pecans, and serve."
+      ],
+      "ingredients":[
+        {
+          "quantity":"1",
+          "name":"head leaf lettuce"
+        },
+        {
+          "quantity":"3",
+          "name":" pears peeled and chopped"
+        },
+        {
+          "quantity":"5",
+          "name":"Roquefort cheese, crumbled",
+          "measurements":"ounces"
+        },
+        {
+          "quantity":"1",
+          "name":" avocado - peeled and diced"
+        },
+        {
+          "quantity":"1/2",
+          "name":"thinly sliced green onions",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/4",
+          "name":"white sugar",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/2",
+          "name":"pecans",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/3",
+          "name":"olive oil",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"3",
+          "name":"red wine vinegar",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1 1/2",
+          "name":"white sugar",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1 1/2",
+          "name":"prepared mustard",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1",
+          "name":"clove garlic"
+        },
+        {
+          "quantity":"1/2",
+          "name":"salt",
+          "measurements":"teaspoon"
+        }
+      ]
+    },
+    {
+      "id":"harvest-salad",
+      "name":"Harvest Salad",
+      "category":"salad",
+      "description":"An easy salad made with pieces of tomatoes, sliced avacados and rasbery jam.",
+      "image":"/images/harvest-salad.jpg",
+      "preparation":"Preheat oven to 375 degrees F (190 degrees C). Arrange walnuts in a single layer on a baking sheet. Toast in oven for 5 minutes, or until nuts begin to brown.",
+      "directions":[
+        "In a large bowl, toss together the spinach, walnuts, cranberries, blue cheese, tomatoes, avocado, and red onion.",
+        "In a small bowl, whisk together jam, vinegar, walnut oil, pepper, and salt. Pour over the salad just before serving, and toss to coat."
+      ],
+      "ingredients":[
+        {
+          "quantity":"1/2",
+          "name":"chopped walnuts",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"bunch spinach rinsed and torn into bite-size pieces"
+        },
+        {
+          "quantity":"1/2",
+          "name": "dried cranbery",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/2",
+          "name":"crumbled blue cheese",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"2",
+          "name":"chopped tomatoe"
+        },
+        {
+          "quantity":"1",
+          "name":"avocado - peeled pitted and diced"
+        },
+        {
+          "quantity":"1/2",
+          "name":"red onion"
+        },
+        {
+          "quantity":"2",
+          "name":"red raspberry jam",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"2",
+          "name":"red wine vinegar",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1/3",
+          "name":"walnut oil",
+          "measurements":"cup"
+        }
+      ]
+    },
+    {
+      "id":"garlic-marinated-steak",
+      "name":"Savory Garlic Marinated Steaks",
+      "category":"beef",
+      "description":"This blend of soy sauce, balsamic vinegar, and Worcestershire sauce makes an easy and tasty marinade for steak.",
+      "image":"/images/steak.jpg",
+      "preparation":"In a medium bowl, mix the vinegar, soy sauce, garlic, honey, olive oil, ground black pepper, Worcestershire sauce, onion powder, salt, liquid smoke, and cayenne pepper.",
+      "directions":[
+        "Place steaks in a shallow glass dish with the marinade, and turn to coat. For optimum flavor, rub the liquid into the meat. Cover, and marinate in the refrigerator for 1 to 2 days.",
+        "Preheat grill for medium-high to high heat.",
+        "Lightly oil the grill grate. Grill steaks 7 minutes per side, or to desired doneness. Discard leftover marinade."
+      ],
+      "ingredients":[
+        {
+          "quantity":"1/2",
+          "name":"balsamic vinegar",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/4",
+          "name":"soy sauce",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"3",
+          "name":"minced garlic",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"2",
+          "name":"honey",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"2",
+          "name":"olive oil",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"2",
+          "name":"ground black pepper",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1",
+          "name":"Worcestershire sauce",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1",
+          "name":"onion powder",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1/2",
+          "name":"salt",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1/2",
+          "name":"liquid smoke flavoring",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1",
+          "name":"cayenne pepper",
+          "measurements":"pinch"
+        },
+        {
+          "quantity":"2",
+          "name":"(1/2 pound) rib-eye steak"
+        }
+      ]
+    },
+    {
+      "id":"bacon-burger",
+      "name":"Bacon Wrapped Hamburgers",
+      "category":"beef",
+      "description":"The ultimate bacon burger recipe.",
+      "image":"/images/bacon-burger.jpg",
+      "preparation":"Preheat a grill for high heat.",
+      "directions":[
+        "In a large bowl, mix together the Cheddar cheese, Parmesan cheese, onion, egg, ketchup, Worcestershire sauce, salt and pepper. Crumble in the ground beef, and mix together by hand. Form into 6 patties, and wrap a slice of bacon around each one. Secure bacon with toothpicks.",
+        "Place patties on the grill, and cook for 5 minutes per side, or until well done. Remove toothpicks before serving on hamburger buns."
+      ],
+      "ingredients":[
+        {
+          "quantity":"1/2",
+          "name":"shredded Cheddar cheese",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"grated Parmesan cheese",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1",
+          "name":"small onion, chopped"
+        },
+        {
+          "quantity":"1",
+          "name":"egg"
+        },
+        {
+          "quantity":"1",
+          "name":"ketchup",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1",
+          "name":"Worcestershire sauce",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1/2",
+          "name":"salt",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1/8",
+          "name":"pepper",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1",
+          "name":"ground beef",
+          "measurements":"pound"
+        },
+        {
+          "quantity":"6",
+          "name":"slices bacon"
+        },
+        {
+          "quantity":"6",
+          "name":" hamburger buns, split"
+        }
+      ]
+    },
+    {
+      "id":"beef-kabobs",
+      "name":"Beef Kabobs",
+      "category":"beef",
+      "description":"Kebab, is a Middle Eastern, Eastern Mediterranean, and South Asian dish of pieces meat on a skewer.",
+      "image":"/images/beef-kabobs.jpg",
+      "preparation":"In a large resealable plastic bag, mix the teriyaki sauce, honey, garlic powder, and ginger. Place red bell peppers, onion wedges, mushrooms, beef, and chicken in the bag with the marinade. Seal, and refrigerate 4 to 24 hours.",
+      "directions":[
+        "Preheat grill for medium-high heat.",
+        "Discard marinade, and thread the meat and vegetables onto skewers, leaving a small space between each item.",
+        "Lightly oil the grill grate. Grill skewers for 10 minutes, turning as needed, or until meat is cooked through and vegetables are tender."
+      ],
+      "ingredients":[
+        {
+          "quantity":"1/2",
+          "name":"teriyaki sauce",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/2",
+          "name":"honey",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/2",
+          "name":"garlic powder",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1/2",
+          "name":"ground ginger",
+          "measurements":"pinch"
+        },
+        {
+          "quantity":"2",
+          "name":"red bell peppers cut into 2 inch pieces"
+        },
+        {
+          "quantity":"1",
+          "name":"large sweet onion peeled and cut into wedges"
+        },
+        {
+          "quantity":"1 1/2",
+          "name":"whole fresh mushroom",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"beef sirloin",
+          "measurements":"pound"
+        },
+        {
+          "quantity":"1 1/2",
+          "name":"boneless chicken breast halves - cut into cubes",
+          "measurements":"pound"
+        }
+      ]
+    },
+    {
+      "id":"ginger-glazed-mahi-mahi",
+      "name":"Ginger Glazed Mahi Mahi",
+      "category":"fish",
+      "description":"Firm mahi-mahi in a delicious ginger and garlic sauce.",
+      "image":"/images/mahi-mahi.jpg",
+      "preparation":"In a shallow glass dish, stir together the honey, soy sauce, balsamic vinegar, ginger, garlic and olive oil. Season fish fillets with salt and pepper, and place them into the dish. If the fillets have skin on them, place them skin side down. Cover, and refrigerate for 20 minutes to marinate.",
+      "directions":[
+        "Heat vegetable oil in a large skillet over medium-high heat. Remove fish from the dish, and reserve marinade. Fry fish for 4 to 6 minutes on each side, turning only once, until fish flakes easily with a fork. Remove fillets to a serving platter and keep warm.",
+        "Pour reserved marinade into the skillet, and heat over medium heat until the mixture reduces to a glaze consistently. Spoon glaze over fish, and serve immediately."
+      ],
+      "ingredients":[
+        {
+          "quantity":"3",
+          "name":"honey",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"3",
+          "name":"soy sauce",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"3",
+          "name":"balsamic vinegar",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1",
+          "name":"grated fresh ginger root",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1",
+          "name":"clove garlic crushed or to taste"
+        },
+        {
+          "quantity":"2",
+          "name":"olive oil",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"4",
+          "name":"(6 ounce) mahi mahi fillets"
+        },
+        {
+          "quantity":"1",
+          "name":"vegetable oil",
+          "measurements":"tablespoon"
+        }
+      ]
+    },
+    {
+      "id":"shrimp-francesca",
+      "name":"Shrimp Francesca",
+      "category":"fish",
+      "description":"Large shrimp and chunks of artichoke hearts are covered with crumbs and drizzled with garlicky butter.",
+      "image":"/images/shrimp.jpg",
+      "preparation":"Preheat oven to 375 degrees F (190 degrees C). Lightly grease a 9x13-inch baking dish.",
+      "directions":[
+        "Arrange the shrimp in the bottom of the prepared baking dish. Gently squeeze any excess liquid from the artichoke hearts, break the hearts into quarters, and arrange in spaces between the shrimp. Sprinkle the bread crumbs and parsley over the shrimp and artichoke hearts; sprinkle lemon juice over the crumbs.",
+        "Melt butter with garlic in a small saucepan over medium-low heat; drizzle the butter mixture over the bread crumbs. Sprinkle the top with Romano cheese.",
+        "Bake in the preheated oven until the crumbs and cheese brown lightly and the shrimp turn opaque and orange-pink in color, 10 to 12 minutes. Serve hot."
+      ],
+      "ingredients":[
+        {
+          "quantity":"1",
+          "name":"uncooked large shrimp peeled and deveined",
+          "measurements":"pound"
+        },
+        {
+          "quantity":"1",
+          "name":"artichoke hearts in water drained",
+          "measurements":"(8 ounce) can"
+        },
+        {
+          "quantity":"1/2",
+          "name":"Italian seasoned bread crumb",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"chopped fresh parsley",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1",
+          "name":"lemon juice"
+        },
+        {
+          "quantity":"1/2",
+          "name":"butter",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1 1/2",
+          "name":"minced garlic",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1",
+          "name":"finely shredded imported Romano cheese",
+          "measurements":"tablespoon"
+        }
+      ]
+    },
+    {
+      "id":"slammin-salmon",
+      "name":"Slammin' Salmon",
+      "category":"fish",
+      "description":"Get this all-star, easy-to-follow Salmon recipe.",
+      "image":"/images/salmon.jpg",
+      "preparation":"Stir balsamic vinegar, lemon juice, and soy sauce with salt, brown sugar, ground ginger, paprika, pepper, and red pepper flakes until the salt has dissolved. Stir in garlic, green onions, sesame oil, and peanut oil until well combined.",
+      "directions":[
+        "Pour marinade into a resealable plastic bag or glass bowl. Add salmon to marinade and gently toss to coat. Place into refrigerator and marinate 2 to 24 hours.",
+        "Prepare an outdoor grill for medium-high heat.",
+        "Drain excess marinade from salmon fillets. Grill until firm and opaque, about 4 minutes per side."
+      ],
+      "ingredients":[
+        {
+          "quantity":"1/4",
+          "name":"balsamic vinegar",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/4",
+          "name":"lemon juice",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1/4",
+          "name":"soy sauce",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"salt",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1",
+          "name":"brown sugar",
+          "measurements":"tablespoon"
+        },
+        {
+          "quantity":"1 1/2",
+          "name":"ground ginger",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1",
+          "name":"paprika",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1",
+          "name":"black pepper",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1",
+          "name":"crushed red pepper flakes",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"4",
+          "name":"cloves garlic"
+        },
+        {
+          "quantity":"1/4",
+          "name":"chopped green onions",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"1",
+          "name":"teaspoon sesame oil",
+          "measurements":"teaspoon"
+        },
+        {
+          "quantity":"1/2",
+          "name":"peanut oil",
+          "measurements":"cup"
+        },
+        {
+          "quantity":"8",
+          "name":"(4 ounce) skinless boneless salmon fillets"
+        }
+      ]
+    }
+  ]
+}

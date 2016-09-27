@@ -1,0 +1,59 @@
+<div class="content">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <div class="row">
+                <div class="col-lg-6 col-sm-7">
+                    <a class="back-btn" ui-sref="index">Back</a>
+
+                    <div class="recipe">
+                        <h2 tml-tr="{{recipe.name}}">
+
+                        </h2>
+                        <h5 tml-tr>
+                            Preparation
+                        </h5>
+
+                        <p tml-tr="{{recipe.preparation}}">
+
+                        </p>
+                        <hr>
+                        <h5 tml-tr>
+                            Directions
+                        </h5>
+                        <ol>
+                            <li ng-repeat="instruction in recipe.directions">
+                                <p tml-tr="{{instruction}}">
+
+                                </p>
+                            </li>
+                        </ol>
+                    </div>
+                </div>
+                <div class="col-sm-5 col-lg-offset-1">
+                    <div class="panel panel-default">
+                        <img class="img-responsive" ng-src="{{recipe.image}}" alt="{{recipe.name | trl}}"/>
+
+                        <div class="panel-body">
+                            <h5 tml-tr>
+                                Ingredient List
+                            </h5>
+                            <table class="table recipe-table">
+                                <tbody>
+                                <tr ng-repeat="ingredient in recipe.ingredients">
+                                    <td ng-if="!ingredient.measurements" count="ingredient.quantity"
+                                        tml-tr="[strong: {count || {{ingredient.name}}}]">
+                                    </td>
+                                    <td ng-if="ingredient.measurements" count="ingredient.quantity"
+                                        tml-tr="[strong: {count || {{ingredient.measurements}}}] {{ingredient.name}}">
+                                    </td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

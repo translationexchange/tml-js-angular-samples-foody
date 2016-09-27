@@ -1,0 +1,68 @@
+
+<!-- Begin Index -->
+<div class="jumbotron text-center">
+    <div class="container">
+        <h1 tml-tr>
+            The Best in International Food
+        </h1>
+
+        <p tml-tr>
+            Food from around the world
+        </p>
+
+        <!--<p tml-tr user="'Михаил'">-->
+            <!--This is {user::pos} blog-->
+        <!--</p>-->
+
+        <!--<tml-tr values='{ link: { href: "http://www.bing.com/" }, user: categories[0].name}'>-->
+            <!--[link]{user}[/link] uploaded a photo-->
+        <!--</tml-tr>-->
+
+        <!--<span tml-tr devices='categories' devices-format='{ attribute: "name" }' devices-options='{translate: true}'>-->
+            <!--Don't forget to update your devices {devices}-->
+        <!--</span>-->
+
+    </div>
+</div>
+
+<div data-spy="affix" data-offset-top="480" class="recipe-nav">
+    <div class="container text-centered">
+        <div id="nav-categories">
+            <ul class="nav nav-tabs">
+                <li ng-repeat="category in categories">
+                    <a href='#' ng-click="gotoAnchor(category.id)" tml-tr="{{category.name}}"></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div ng-repeat="category in categories">
+        <a id="{{category.id}}" class="anchor">&nbsp;</a>
+
+        <div class="page-header">
+            <h3 tml-tr="{{category.name}}">
+            </h3>
+        </div>
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6" ng-repeat="recipe in recipes[category.id]">
+                        <a class="panel panel-default recipe-thumbnail" ui-sref="recipe({ id: recipe.id })">
+                            <img class="img-responsive"
+                                 ng-src="{{recipe.image}}"
+                                 alt="{{recipe.name | trl}}"/>
+
+                            <div class="panel-body">
+                                <h4 tml-tr="{{recipe.name}}"></h4>
+
+                                <p tml-tr="{{recipe.description}}"></p>
+                            </div>
+                        </a></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
